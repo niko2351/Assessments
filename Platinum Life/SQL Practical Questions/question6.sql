@@ -1,0 +1,2 @@
+SELECT *
+FROM OPENQUERY(vicidial,'SELECT * FROM users');
