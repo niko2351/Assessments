@@ -1,2 +1,2 @@
 # Assessments
-All solutions to the Platinum Life assessment 
+This is where completed assessments will be stored
